@@ -18,7 +18,7 @@ topics = extract_topics(chunks)
 clusters = cluster_chunks(chunks, topics)
 
 print(clusters)
-پ
+
 
 chunk_text
 متن را بر اساس پاراگراف تقسیم می‌کند و یک لیست از چانک‌ها می‌سازد.
